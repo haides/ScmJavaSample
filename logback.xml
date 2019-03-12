@@ -1,0 +1,9 @@
+<configuration scan="true" scanPeriod="60" debug="false">
+
+    
+    
+    <root level="INFO">
+        <appender-ref ref="FILE"/>
+    </root>
+
+</configuration>
